@@ -105,7 +105,6 @@ On launch, the main dashboard displays a numbered menu:
 ```
 =======================================================
    SMART CAMPUS INFORMATION SYSTEM
-   Dayananda Sagar College of Engineering
 =======================================================
    Students registered : 5
    Courses enrolled    : 4
@@ -194,7 +193,3 @@ Top student    : Anita Nair (95 marks)
 | CO5 | Purpose of modules and packages in Python |
 
 ---
-
-## License
-
-This project is developed for academic purposes at Dayananda Sagar College of Engineering.
